@@ -1,2 +1,1 @@
-# examples
-Some examples
+# Примеры работ
